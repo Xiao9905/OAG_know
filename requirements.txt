@@ -5,7 +5,7 @@ jieba==0.39
 elasticsearch5==5.5.6
 pymongo==3.9.0
 bert_serving_client==1.10.0
-numpy==1.18.0
+numpy==1.22.0
 bert_serving==0.0.1
 fuzzywuzzy==0.17.0
 psyco==1.6
